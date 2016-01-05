@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_product_zoom'
+  s.name        = 'spree_product_zoom'
   s.version     = '1.0.0'
   s.summary     = 'Add product image zoom functionality via a lightbox'
   s.required_ruby_version = '>= 1.9.3'
